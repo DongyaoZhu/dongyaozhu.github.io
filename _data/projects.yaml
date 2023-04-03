@@ -1,6 +1,6 @@
 projects:
   - title: "MindAudio"
-    subtitle: "An audio research toolkit baesd on MindSpore."
+    subtitle: "An audio research toolkit based on MindSpore."
     thumbnail: "https://camo.githubusercontent.com/64b2e2664574cb49e5a3da981b42a302f51d5786557987120015a9758adb5140/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f6d696e6473706f72652d6c61622f6d696e64617564696f2f75745f746573742e79616d6c"
     url: "https://github.com/mindspore-lab/mindaudio"
     selected: y
