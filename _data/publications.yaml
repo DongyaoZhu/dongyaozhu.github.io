@@ -1,14 +1,14 @@
 papers:
 
-  - title: "Calibration on Dataset Distillation"
-    authors: "coming soon (under review, in another title)"
-    # paper_pdf: "coming soon"
+  - title: "Rethinking Data Distillation: Do Not Overlook Calibration"
+    authors: "<b>Dongyao Zhu</b>, Bowen Lei, Jie Zhang, Yanbo Fang, Ruqi Zhang, Yiqun Xie, Dongkuan Xu"
+    paper_pdf: "coming soon"
     # code: "coming soon"
     selected: y
 
   - title: "Efficient Informed Proposals for Discrete Distributions via Newton's Series Approximation"
-    authors: "Yue Xiang, <b>Dongyao Zhu</b>, Bowen Lei, Dongkuan Xu, Ruqi Zhang"
-    venue: "AISTATS'23: International Conference on Artificial Intelligence and Statistics, 2023"
+    authors: "Yue Xiang<sup>‡</sup>, <b>Dongyao Zhu</b><sup>‡</sup>, Bowen Lei, Dongkuan Xu, Ruqi Zhang"
+    venue: "International Conference on Artificial Intelligence and Statistics (AISTATS), 2023"
     paper_pdf: "https://arxiv.org/abs/2302.13929"
     code: "https://github.com/DongyaoZhu/Newton-Proposal-for-Discrete-Sampling"
     selected: y
